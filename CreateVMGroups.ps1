@@ -1,0 +1,1 @@
+﻿New-VMGroup -Name 'CS-ENTERPRISE' -GroupType ManagementCollectionType #VMCollectionGroup

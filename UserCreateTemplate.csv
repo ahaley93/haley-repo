@@ -1,0 +1,11 @@
+﻿version:v1.0,,,,,,,,,,,,,,,,
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled] Required,First name [givenName],Last name [surname],Job title [jobTitle],Department [department],Usage location [usageLocation],Street address [streetAddress],State or province [state],Country or region [country],Office [physicalDeliveryOfficeName],City [city],ZIP or postal code [postalCode],Office phone [telephoneNumber],Mobile phone [mobile]
+Tony Riddick,tone@cstechsllc.onmicrosoft.com,Brother2023!, No,,,,,,,,,,,,,
+Tameka Riddick,tridd@cstechsllc.onmicrosoft.com,Mother2023!, No,,,,,,,,,,,,,
+Angela Haley,aahaley@cstechsllc.onmicrosoft.com,Mother2023!, No,,,,,,,,,,,,,
+Frances Haley,fhaley@cstechsllc.onmicrosoft.com,Mother2023!, No,,,,,,,,,,,,,
+Monica Haley,mhaley@cstechsllc.onmicrosoft.com,Wife2023!, No,,,,,,,,,,,,,
+Aidan Allen,aallen@cstechsllc.onmicrosoft.com,Brother2023!, No,,,,,,,,,,,,,
+Stevie Allen,sallen@cstechsllc.onmicrosoft.com,Father2023!, No,,,,,,,,,,,,,
+Michele Stewart,mstew@cstechsllc.onmicrosoft.com,Mother2023!, No,,,,,,,,,,,,,
+Derrick Stewart,dstew@cstechsllc.onmicrosoft.com,Father2023!,No,,,,,,,,,,,,,

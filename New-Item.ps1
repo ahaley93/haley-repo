@@ -1,0 +1,1 @@
+New-Item -Path "D:\VHDX" -Name "CS-SVR02" -ItemType "directory"

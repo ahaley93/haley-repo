@@ -1,0 +1,1 @@
+﻿New-VHD -Path D:\VHDX\CS-SVR02\CS-SVR02.vhdx -Dynamic -SizeBytes 200GB 
